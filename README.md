@@ -16,7 +16,7 @@ Software developer building AI agents and applications. I work primarily with Py
 ## Featured projects
 
 - Clarity Protocol — a performance and productivity application
-- Umbra V2 — a Python project
+- Umbra V2 — autonomous AI agent platform for B2B lead generation and outbound automation (Next.js, Python, RAG, Gemini)
 
 ## How to reach me
 
