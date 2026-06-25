@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Christiaan 👋
 
-<!--
-**christiaan839-beep/christiaan839-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer building AI agents and applications. I work primarily with Python, JavaScript, and TypeScript, with a focus on agent orchestration and practical tools.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI agent systems — orchestration platforms and autonomous agent workflows
+- Application development — full-stack apps across web and backend services
+- Tooling & automation — plugins, skills, and developer utilities
+
+## Tech stack
+
+- Languages: Python, JavaScript, TypeScript
+- Focus areas: AI agents, automation, app development
+
+## Featured projects
+
+- Clarity Protocol — a performance and productivity application
+- Umbra V2 — a Python project
+
+## How to reach me
+
+Feel free to explore my repositories below or open an issue to start a conversation.
