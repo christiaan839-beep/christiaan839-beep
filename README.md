@@ -1,23 +1,32 @@
-# Hi, I'm Christiaan 👋
+# Christiaan de Wet
 
-Software developer building AI agents and applications. I work primarily with Python, JavaScript, and TypeScript, with a focus on agent orchestration and practical tools.
+AI agent engineer in Cape Town, South Africa. Co-founder of Sovereign
+Matrix, an agentic AI studio, with Tiaan Wepener, who leads growth.
 
-## What I'm working on
+## What I work on
 
-- AI agent systems — orchestration platforms and autonomous agent workflows
-- Application development — full-stack apps across web and backend services
-- Tooling & automation — plugins, skills, and developer utilities
+- **Signed AI receipts.** [verifiable-receipts](https://github.com/christiaan839-beep/verifiable-receipts)
+  signs a record of each AI call with Ed25519 so anyone can verify it
+  later: a TypeScript library that signs, and verifiers in Python and Go
+  that check, all three running the same 11 conformance fixtures. On 16
+  October 2026 the TypeScript tests ran 681 passed and 4 skipped, Python
+  22 passed and Go 23 passed. Not on npm or PyPI yet.
+- **The Critter Series.** 30-second films that explain Claude, drawn in
+  code. More than a hundred so far, on
+  [Instagram](https://www.instagram.com/sovereign.matrix/).
+- **Websites and agents for small businesses.** Websites that move, and
+  agents that do the work, built on Claude.
 
-## Tech stack
+## Earlier work
 
-- Languages: Python, JavaScript, TypeScript
-- Focus areas: AI agents, automation, app development
+- [Umbra V2](https://github.com/christiaan839-beep/Umbra-V2): a multi-agent
+  platform for B2B lead research and outreach drafting, with human review
+  before anything is sent.
+- [Clarity Protocol](https://github.com/christiaan839-beep/clarity-protocol-legacy):
+  a Firebase web app with accounts, Stripe subscriptions and a library of
+  generated PDF guides.
 
-## Featured projects
+## Contact
 
-- Clarity Protocol — a performance and productivity application
-- Umbra V2 — autonomous AI agent platform for B2B lead generation and outbound automation (Next.js, Python, RAG, Gemini)
-
-## How to reach me
-
-Feel free to explore my repositories below or open an issue to start a conversation.
+[LinkedIn](https://www.linkedin.com/in/christiaan-de-wet-8030613b7) ·
+[Instagram](https://www.instagram.com/sovereign.matrix/)
